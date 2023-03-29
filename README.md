@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+##Hello guys, this is UCBDev. I was excited for NextJS 13 app directory release and i've built a real-life implementation of NextAuth for it. I am showing you how to sign in, how to sign out, how to manage access token and refresh token with CredentialProvider of NextAuth. Also refresh token mechanism has been built to replace the new access tokens from your api when it's expired with axios interceptors and custom hooks. I hope you find it useful, please dont forget to leave a star to repository :)
 
 ## Getting Started
 
