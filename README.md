@@ -1,5 +1,5 @@
 ## Hello guys, this is UCBDev.
-<h2>I was excited for NextJS 13 app directory release and i've built a real-life implementation of NextAuth for it. I am showing you how to sign in, how to sign out, how to manage access token and refresh token with CredentialProvider of NextAuth. Also refresh token mechanism has been built to replace the new access tokens from your api when it's expired with axios interceptors and custom hooks. Also between codes, i left lots of comments[Turkish] for utils which i've used, they're the descriptions. I hope you find them useful, please dont forget to leave a star to repository :)</h2>
+<h2>I was excited for NextJS 13 app directory release and i've tried to built a almost real-life implementation of NextAuth for it. I am showing you how to sign in, how to sign out, how to manage access token and refresh token with CredentialProvider of NextAuth. Also refresh token mechanism has been built to replace the new access tokens from your api when it's expired with axios interceptors and custom hooks. Also between codes, i left lots of comments[Turkish] for utils which i've used, they're the descriptions. I hope you find them useful, please dont forget to leave a star to repository :)</h2>
 
 ## Getting Started
 
